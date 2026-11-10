@@ -1,0 +1,51 @@
+After Glow
+
+A small interactive art thta runs in your browser.
+
+The screen is black. Tap or click anywhere, and glowing rings of light spread out from that spot and slowly fade away. Every tap picks new colors, so no two taps look the same.
+
+
+Images
+
+
+![ScreenShot1](<Screenshot (181).png>)
+
+![ScreenShot2](<Screenshot (180).png>)
+
+![ScreenShot3](<Screenshot (179).png>)
+
+
+
+How to run 
+
+Clone the git repo
+
+https://github.com/arunreddyyy/glow-pulse.git
+
+go to the coding platform which you do(Eg: vs code)
+get the cloned files into it and run in you browser
+
+             "OR"
+
+Run it through the git repo deployed link, following
+
+https://arunreddyyy.github.io/glow-pulse/
+
+If you want to make any changes in the code to make it better or any 
+
+go to the javascript file in the files
+
+change the the following if you want...
+
+ k < 3 set the rings when we tap
+ k * 70 it sets how many different colors the ypu want.
+ r.r += 4 speed of the rings.
+ g.lineWidth = 3 thickness of the rings.
+
+ only change these things other than it dont touch it at all
+ 
+I have Used HTML , CSS , and JavaScript to build this web page.
+
+Project Obective
+
+I wanted to make somthing simple and calm that anyone can play with just by touching the screen.
